@@ -12,8 +12,8 @@
 ./gradlew build   
 
 ## BUILD AND UP Docker Compose 
-docker-compose up --build
-(docker-compose down <- down docker compose)  
+docker-compose up --build   
+docker-compose down <- down docker compose     
 
 ## CURLS 
 
