@@ -30,5 +30,5 @@ curl -s -X GET \
   
   
 ## Complete explanation
-english:  https://experto.dev/en  
-spanish: https://experto.dev/spring-boot-postgresql-docker-compose/
+english: https://experto.dev/en/spring-boot-with-postgresql-and-docker-compose/   
+spanish: https://experto.dev/spring-boot-postgresql-docker-compose/   
